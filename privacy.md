@@ -1,16 +1,16 @@
 # Privacy Policy
 
-**Last updated: March 13, 2026**
+**Last updated: March 19, 2026**
 
-Shhlate ("we", "our", "the app") is committed to protecting your privacy. This policy explains what data we collect, how we use it, and your rights.
+Shhlate ("we", "our", "the app") is committed to protecting your privacy. This policy explains our data practices.
 
-## Data We Collect
+## No Data Collection
 
-**Account Information**
-When you sign in with Apple or Google, we receive your email address and a unique user identifier. This is used solely for authentication and syncing your language preferences across devices.
+We do not collect any information from you. Shhlate does not gather, store, or transmit any personal data, account information, or usage data.
 
-**Language Preferences**
-Your selected base language and installed language packs are stored to provide a personalized experience. These preferences are synced to our server (Supabase) so they persist across sessions.
+## Free Features — No Login Required
+
+You can use all free features of Shhlate directly without signing in or creating an account. No registration is required to get started.
 
 ## Data We Do Not Collect
 
@@ -23,14 +23,6 @@ Your selected base language and installed language packs are stored to provide a
 ## On-Device Processing
 
 All speech recognition and translation is performed entirely on your device. Audio data never leaves your phone.
-
-## Data Storage
-
-Account and language preference data is stored securely on Supabase. We retain this data for as long as your account is active.
-
-## Account Deletion
-
-You may request deletion of your account and all associated data by contacting us at shhlate.support@gmail.com. We will process your request within 30 days.
 
 ## Changes to This Policy
 
